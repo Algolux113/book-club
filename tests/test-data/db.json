@@ -1,0 +1,45 @@
+{
+    "speakers": [
+        {
+            "id": 1,
+            "firstName": "Роман",
+            "lastName": "Капканников",
+            "patronymic": "Викторович"
+        },
+        {
+            "id": 2,
+            "firstName": "Сергей",
+            "lastName": "Зверьков",
+            "patronymic": "Анатольевич"
+        },
+        {
+            "id": 3,
+            "firstName": "Виктор",
+            "lastName": "Абрикосович",
+            "patronymic": "Петрович"
+        },
+        {
+            "id": 4,
+            "firstName": "Андрей",
+            "lastName": "Мухамор",
+            "patronymic": "Григорьевич"
+        }
+    ],
+    "books": [
+        {
+            "id": 1,
+            "bookName": "Властелин колец",
+            "pagesNumber": 625,
+            "author": "Джон Рональд Руэл Толкин",
+            "rating": 75,
+            "tags": [
+                {
+                    "tagName": "фэнтези"
+                },
+                {
+                    "tagName": "хоббиты"
+                }
+            ]
+        }
+    ]
+}
